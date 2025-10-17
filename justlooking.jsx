@@ -3,5 +3,5 @@ ramrama
 
 
 function(){
-    console.log("hey justice")
+    console.log("hey justic")
 }
